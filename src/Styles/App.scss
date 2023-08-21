@@ -1,0 +1,18 @@
+@import '../Styles/variables.scss' ;
+@import url(https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap);
+@import "~bootstrap/scss/bootstrap";
+
+body {
+    background-color: $bgcolor!important;
+   color:white!important;
+    margin: 0;
+    width: 100%;
+    height: 100vh;
+  };
+html {
+    width: 100%;
+    height: 100%;
+}
+footer {
+    width: 100%;
+}

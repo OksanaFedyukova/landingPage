@@ -1,0 +1,31 @@
+@import '../../Styles/variables.scss' ;
+h2 {
+    margin-top: -16%;
+    margin-bottom: 5%;
+}
+p{
+    margin-right: 7%;
+    margin-left: 0;
+    float: left;
+}
+.btnDisvover {
+    font-weight: 500;
+    background-color: $bgcolorfooter;
+    height: 70px;
+    width: 80px;
+    border: none;
+    margin-right: 1.2rem;
+    color: white;
+    margin-bottom: 5%;
+}
+.btnDisvover:hover{
+    background-color: $buttonhover;
+color: $accenttext;
+}
+
+.imgCollage{
+        width: 65%;
+        margin-top: 10%;
+        margin-left:5%;
+        margin-bottom: 25vh;
+    };
